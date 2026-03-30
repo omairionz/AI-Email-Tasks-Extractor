@@ -1,0 +1,29 @@
+Subject: URGENT: Payment Gateway Error
+The checkout page is throwing 500 errors for all credit card transactions. We are losing sales every minute. Please fix the API connection issues immediately. I need a status report every hour starting now.
+
+Subject: Client Onboarding: Project Phoenix
+Welcome aboard! We need to get the kickoff meeting scheduled. Please send the client a calendar invite for next Tuesday. Also, ensure the initial project roadmap is drafted and shared with the team by this Thursday.
+
+Subject: Spring Office Cleaning
+Hi everyone, it’s time to declutter. We’ve scheduled a deep clean of the office for the last day of March. Please ensure your personal desk area is cleared of all non-essential items by the evening before the cleaning crew arrives.
+
+Subject: Software License Audit
+Our annual software audit is coming up in April. To prepare, please list all the premium Chrome extensions currently used by your department. I’ll need that list by the end of next week.
+
+Subject: Laptop Battery Issue
+Hey, my laptop battery is bulging and getting very hot. I’m worried it might be a fire hazard. Can someone from IT look at this today? I don't feel safe using it. Thanks, Mark.
+
+Subject: Marketing Photoshoot
+We have the product photoshoot scheduled for Wednesday morning. Please make sure all the prototypes are cleaned and ready in the studio by Tuesday afternoon. This is a big launch, so don't be late!
+
+Subject: New Policy Feedback
+Management has released the draft for the new remote work policy. It’s a 50-page document, so take your time. If you have any suggestions, please submit them to the HR portal by the end of the month.
+
+Subject: Social Media Content
+Hi! We need to stay active on LinkedIn. Could you please draft three posts about our new partnership? They don't need to go out now, but let's have them ready to review by Friday morning.
+
+Subject: Background Check Documents
+Hi, we are finalizing your onboarding. We are missing your signed consent form for the background check. Please sign and upload it to the portal by tomorrow morning so we can stay on schedule for your start date.
+
+Subject: Office Snacks
+The granola bars are out of stock again. Whenever you place the next grocery order—maybe sometime next week or the week after—could you add two boxes of the variety pack? No rush at all.
