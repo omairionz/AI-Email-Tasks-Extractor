@@ -1,4 +1,6 @@
-# AI-Email-Tasks-Extractor by @omairionz
+# AI Email Tasks Extractor 
+
+> Created by @omairionz
 
 ## What this program does
 
